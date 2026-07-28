@@ -1,6 +1,6 @@
 ## welcome 😁
 - 🛠️ I love to build things!
-- 🌐 My protfolio: coming soon...
+- 🌐 My portfolio: coming soon...
 - 📫 Reach out to me at rmr326@cornell.edu
 
 <!--
