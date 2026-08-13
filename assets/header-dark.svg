@@ -37,7 +37,5 @@
   <text x="92" y="138" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="55" font-weight="700" letter-spacing="1.5">RAYHAN RINZAN</text>
   <text x="94" y="180" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">computer science @ cornell  ·  software  ·  machine learning  ·  products</text>
 
-  <text x="94" y="275" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">$ build things worth using</text>
-  <text x="337" y="275" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">_</text>
-  <animate xlink:href="#cursor" attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  <text x="94" y="275" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">$ build things worth using _</text>
 </svg>
