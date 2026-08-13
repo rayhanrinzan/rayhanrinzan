@@ -45,7 +45,17 @@ End-to-end football prediction pipeline using recent-form + Elo features, model 
 
 ---
 
-### `03 / toolbox`
+### `03 / contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayhanrinzan/rayhanrinzan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayhanrinzan/rayhanrinzan/output/github-contribution-grid-snake.svg">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/rayhanrinzan/rayhanrinzan/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+---
+
+### `04 / toolbox`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
@@ -63,7 +73,7 @@ End-to-end football prediction pipeline using recent-form + Elo features, model 
 
 ---
 
-### `04 / what I'm exploring`
+### `05 / what I'm exploring`
 
 ```text
 01  building software with strong product taste
