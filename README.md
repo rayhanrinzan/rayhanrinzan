@@ -7,14 +7,14 @@
 <p align="center">
   <a href="mailto:rmr326@cornell.edu"><img src="https://img.shields.io/badge/email-rmr326%40cornell.edu-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Cornell-Computer%20Science-B31B1B?style=flat-square" alt="Cornell Computer Science">
-  <img src="https://img.shields.io/badge/NYC-building%20%2B%20researching-0969DA?style=flat-square" alt="Building and researching in NYC">
+  <img src="https://img.shields.io/badge/portfolio-coming%20soon-6E7781?style=flat-square&logo=safari&logoColor=white" alt="Portfolio coming soon">
 </p>
 
 ### `01 / about`
 
 I'm a **Computer Science student at Cornell University** who likes turning messy, interesting problems into software people can actually use.
 
-Right now, I'm especially interested in **software engineering, applied machine learning, product engineering, and startups**. I've worked on medical-image segmentation at **Weill Cornell Medicine**, built end-to-end ML pipelines, and shipped projects across iOS, data products, and sports analytics.
+Right now, I'm especially interested in **software engineering, applied machine learning, data, and startups**. I've worked on medical-image segmentation at **Weill Cornell Medicine** and built end-to-end machine learning and data pipelines.
 
 I care about the entire path from **idea → model/system → interface → useful product**.
 
@@ -26,10 +26,10 @@ I care about the entire path from **idea → model/system → interface → usef
 <tr>
 <td width="50%" valign="top">
 
-#### 🔎 [FlowSift AI](https://github.com/rayhanrinzan/FlowSiftAI)
-Turns real online discussions into ranked, explainable startup opportunities by collecting pain points, clustering evidence, researching competitors, and scoring market gaps.
+#### 🩻 [GI Tract Image Segmentation](https://github.com/rayhanrinzan/Unet-GI-Tract-Image-Segmentation)
+Medical-image segmentation pipeline using a U-Net architecture, custom data loading + augmentation, and experiment tracking.
 
-`Python` `Streamlit` `NLP` `data pipelines`
+`Python` `U-Net` `computer vision` `Weights & Biases`
 
 </td>
 <td width="50%" valign="top">
@@ -38,24 +38,6 @@ Turns real online discussions into ranked, explainable startup opportunities by 
 End-to-end football prediction pipeline using recent-form + Elo features, model comparison, calibrated matchup probabilities, and Monte Carlo tournament simulation.
 
 `Python` `scikit-learn` `pandas` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⏱️ [clockedin](https://github.com/rayhanrinzan/clockedin)
-SwiftUI productivity app built around periodic check-ins, productivity trends, quiet windows, and calendar-aware reminders.
-
-`Swift` `SwiftUI` `EventKit` `iOS`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🩻 [GI Tract Image Segmentation](https://github.com/rayhanrinzan/Unet-GI-Tract-Image-Segmentation)
-Medical-image segmentation pipeline using a U-Net architecture, custom data loading + augmentation, and experiment tracking.
-
-`Python` `U-Net` `computer vision` `Weights & Biases`
 
 </td>
 </tr>
