@@ -57,17 +57,31 @@ End-to-end football prediction pipeline using recent-form + Elo features, model 
 
 ### `04 / toolbox`
 
+<p align="center"><strong>Languages</strong></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
   <img src="https://img.shields.io/badge/Java-181717?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/C%2B%2B-181717?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++">
-  <img src="https://img.shields.io/badge/Swift-181717?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift">
+  <img src="https://img.shields.io/badge/SQL-181717?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
+  <img src="https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash">
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <br>
+  <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3">
+</p>
+
+<p align="center"><strong>ML · Data · Systems</strong></p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/PyTorch-181717?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/scikit--learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV">
+  <img src="https://img.shields.io/badge/NumPy-181717?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-181717?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/Streamlit-181717?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Hugging%20Face-181717?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/LangChain-181717?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain">
+  <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Slurm-181717?style=for-the-badge&logoColor=white" alt="Slurm">
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
 </p>
 
