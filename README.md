@@ -12,7 +12,7 @@
 
 ### `01 / about`
 
-I'm a **Cornell CS student** focused on **autonomous systems, machine learning, and data engineering**.
+I’m a **Cornell CS student** interested in **intelligent systems**, with a focus on **machine learning, autonomy, and data engineering**.
 
 ---
 
