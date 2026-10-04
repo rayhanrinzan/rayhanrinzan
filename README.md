@@ -18,13 +18,11 @@ I’m a **Cornell CS student** interested in **intelligent systems**, with a foc
 
 ### `02 / contributions`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayhanrinzan&bg_color=00000000&color=6E7781&line=B31B1B&point=B31B1B&area=true&hide_border=true&hide_title=true" width="100%" alt="GitHub contribution activity graph">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rayhanrinzan&hide_border=true&background=00000000" alt="GitHub contribution stats">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+  <img alt="GitHub contributions in the last year" src="./assets/contributions-light.svg" width="100%">
+</picture>
 
 ---
 
