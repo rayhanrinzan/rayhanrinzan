@@ -12,7 +12,7 @@
 
 ### `01 / about`
 
-I'm interested in **software engineering, applied machine learning, and building useful products**.
+I'm a **Cornell CS student** focused on **autonomous systems, machine learning, and data engineering**.
 
 ---
 
@@ -35,5 +35,5 @@ I'm interested in **software engineering, applied machine learning, and building
 ---
 
 <p align="center">
-  <a href="mailto:rmr326@cornell.edu"><b>say hi ↗</b></a>
+  <a href="https://www.linkedin.com/in/rinzan/"><b>say hi ↗</b></a>
 </p>
