@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit updated calendar
         run: |
-          if git diff --quiet -- assets/contributions-dark.svg assets/contributions-light.svg; then
+          if [ -z "$(git status --porcelain -- assets/contributions-dark.svg assets/contributions-light.svg)" ]; then
             echo "Contribution graph is already up to date."
             exit 0
           fi
