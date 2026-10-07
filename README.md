@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:rmr326@cornell.edu"><img src="https://img.shields.io/badge/email-rmr326%40cornell.edu-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Cornell-Computer%20Science-B31B1B?style=flat-square" alt="Cornell Computer Science">
-  <a href="https://www.rayhanrinzan.dev/"><img src="https://img.shields.io/badge/portfolio-coming%20soon-6E7781?style=flat-square&logo=safari&logoColor=white" alt="Portfolio">
+  <a href="https://www.rayhanrinzan.dev/"><img src="https://img.shields.io/badge/portfolio-click%20here!-6E7781?style=flat-square&logo=safari&logoColor=white" alt="Portfolio">
 </p>
 
 ### `01 / about`
